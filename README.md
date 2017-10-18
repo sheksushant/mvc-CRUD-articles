@@ -1,2 +1,3 @@
-# mvc-CRUD-articles
-Playing with Sails.JS and MVC
+# test-project
+
+a [Sails](http://sailsjs.org) application
