@@ -8,7 +8,7 @@ RUN :
 
 `$ npm install`
 
-`$ mongod'
+`$ mongod`
 
 `$ node app.js`
 
